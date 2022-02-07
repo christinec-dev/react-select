@@ -1,3 +1,7 @@
+# Reusable Button
+This is a reusable selection component made with React and React Hooks. It changes the states through props and functions. You can thus change the select option values universally. 
+![Screenshot 2022-02-07 164659](https://user-images.githubusercontent.com/87696858/152814307-1c104cf5-9d57-4021-9b1c-6c59605490b8.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
